@@ -24,7 +24,7 @@ function Footer() {
 
                 </div>
             <div className="footer__copyright">
-                <small>&copy; Design & Developed by ArjunSamrat | all rights reserved</small>
+                <small>&copy; Design & Developed by Arjun Samrat | all rights reserved</small>
             </div>
             </div>
 

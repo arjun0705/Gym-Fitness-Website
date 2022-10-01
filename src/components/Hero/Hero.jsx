@@ -60,10 +60,11 @@ function Hero() {
 
                 <div className="hero-buttons">
                     <button className="btn getStarted">Get Started</button>
-                    <a href="#programs" > <button className="btn learnMore" >Learn MOre</button></a>
+                    <a href="#programs" style={{textDecoration:"none"}} > <button className="btn learnMore" >Learn More</button></a>
                 </div>
 
             </div>
+
             <div className="right-h">
              <span className='joinNow'>   <a href="#join-us" ><button className='btn'>Join Now</button>
                 </a></span>
