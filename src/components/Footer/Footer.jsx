@@ -14,8 +14,8 @@ function Footer() {
                 <div className="social-links">
 
                 <a href="https://github.com/arjun0705" target="_blank"><img width="30px"  src={Github} alt="" /></a>  
-                 <a href="" target="_blank"><img  width="30px" src={Instagram} alt="" /></a>   
                  <a href="https://www.linkedin.com/in/arjun-samrat-23b7b11aa/" target="_blank"> <img width="30px" src={LinkedIn} alt="" /></a>  
+                 <a href="" target="_blank"><img  width="30px" src={Instagram} alt="" /></a>   
                 </div>
 
                 <div className="logo-footer">
